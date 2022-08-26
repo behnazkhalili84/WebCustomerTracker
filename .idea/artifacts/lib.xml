@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact name="lib">
+    <output-path>$PROJECT_DIR$/out/artifacts/lib</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+        <element id="library" level="project" name="antlr-2.7.7" />
+        <element id="library" level="project" name="spring-webmvc-5.2.3.RELEASE" />
+        <element id="library" level="project" name="javax.activation-1.2.0 (1)" />
+        <element id="library" level="project" name="c3p0-0.9.1.2" />
+        <element id="library" level="project" name="antlr-2.7.73" />
+        <element id="library" level="project" name="aopalliance-1.0" />
+        <element id="library" level="project" name="antlr-2.7.71" />
+        <element id="library" level="project" name="antlr-2.7.72" />
+        <element id="library" level="project" name="antlr-2.7.74" />
+        <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        <element id="library" level="project" name="jaxb-api-2.3.0 (1)" />
+      </element>
+      <element id="library" level="project" name="antlr-2.7.7" />
+      <element id="library" level="project" name="antlr-2.7.71" />
+      <element id="library" level="project" name="antlr-2.7.72" />
+      <element id="library" level="project" name="antlr-2.7.73" />
+      <element id="library" level="project" name="aopalliance-1.0" />
+      <element id="library" level="project" name="c3p0-0.9.1.2" />
+      <element id="library" level="project" name="Java EE 6-Java EE 6" />
+      <element id="library" level="project" name="javax.activation-1.2.0 (1)" />
+      <element id="library" level="project" name="jaxb-api-2.3.0 (1)" />
+      <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+      <element id="library" level="project" name="spring-webmvc-5.2.3.RELEASE" />
+    </root>
+  </artifact>
+</component>

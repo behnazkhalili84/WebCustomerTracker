@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebCustomerTracker:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebCustomerTracker_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebCustomerTracker/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebCustomerTracker" />
+        </element>
+        <element id="artifact" artifact-name="lib" />
+        <element id="library" level="project" name="antlr-2.7.7" />
+        <element id="library" level="project" name="antlr-2.7.71" />
+        <element id="library" level="project" name="antlr-2.7.72" />
+        <element id="library" level="project" name="antlr-2.7.73" />
+        <element id="library" level="project" name="antlr-2.7.74" />
+        <element id="library" level="project" name="aopalliance-1.0" />
+        <element id="library" level="project" name="c3p0-0.9.1.2" />
+        <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        <element id="library" level="project" name="javax.activation-1.2.0 (1)" />
+        <element id="library" level="project" name="jaxb-api-2.3.0 (1)" />
+        <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+        <element id="library" level="project" name="spring-webmvc-5.2.3.RELEASE" />
+      </element>
+    </root>
+  </artifact>
+</component>
